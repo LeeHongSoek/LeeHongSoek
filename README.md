@@ -3,7 +3,7 @@
 
 
 ### Hi there 👋
-![나의 마인드맵](https://github.com/LeeHongSoek/LeeHongSoek/assets/105229755/e703e4ba-3b54-474b-a915-121e79f785ee)
+![image](https://github.com/LeeHongSoek/LeeHongSoek/assets/105229755/8963a960-4e46-4bd1-8ca2-0d00c0af08f3)
 
 
 **LeeHongSoek/LeeHongSoek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
