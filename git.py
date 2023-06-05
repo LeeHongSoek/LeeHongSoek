@@ -2,8 +2,6 @@ import subprocess
 import time
 import os
 
-# 메롱 
-
 # 로컬 저장소의 경로
 local_repo = r"C:\MyProject\LeeHongSoek"
 
@@ -20,7 +18,6 @@ while True:
 
     # 원격 저장소의 변경 사항을 가져옵니다.
     subprocess.run(["git", "pull", "origin", "main"])
-
 
     # git status
     result = subprocess.run(["git", "status"], capture_output=True, text=True)
