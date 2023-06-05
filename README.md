@@ -1,5 +1,5 @@
 
-![이홍석_일산호수공원](https://github.com/LeeHongSoek/LeeHongSoek/raw/main/이홍석_일산호수공원.jpg)
+![image](https://github.com/LeeHongSoek/LeeHongSoek/assets/105229755/beb7bdaa-0e84-4b57-b28e-a099a9b4ea5f)
 
 
 ### Hi there 👋
