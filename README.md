@@ -1,3 +1,7 @@
+
+![이미지 설명](https://github.com/LeeHongSoek/LeeHongSoek/raw/main/이홍석_일산호수공원.jpg)
+
+
 ### Hi there 👋
 
 <!--
