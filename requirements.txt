@@ -1,7 +1,0 @@
-fastapi
-wsproto
-websockets
-requests
-uvicorn
-jinja2
-asyncio
