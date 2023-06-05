@@ -2,7 +2,6 @@ import subprocess
 import time
 import os
 
-# 메롱~
 
 # 로컬 저장소의 경로
 local_repo = r"C:\MyProject\LeeHongSoek"
@@ -21,7 +20,7 @@ while True:
     subprocess.run(["git", "pull", "origin", "main"])
 
     # git add --all
-    subprocess.run(["git", "add", "--all", "-u"])
+    subprocess.run(["git", "add", "-u"])
 
     # git status
     result = subprocess.run(["git", "status"], capture_output=True, text=True)
