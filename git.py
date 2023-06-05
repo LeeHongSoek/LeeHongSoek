@@ -2,6 +2,8 @@ import subprocess
 import time
 import os
 
+# 메롱~
+
 # 로컬 저장소의 경로
 local_repo = r"C:\MyProject\LeeHongSoek"
 
