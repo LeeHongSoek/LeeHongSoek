@@ -3,9 +3,6 @@
 
 
 ### Hi there 👋
-![image](https://github.com/LeeHongSoek/LeeHongSoek/assets/105229755/8963a960-4e46-4bd1-8ca2-0d00c0af08f3)
-
-
 **LeeHongSoek/LeeHongSoek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
