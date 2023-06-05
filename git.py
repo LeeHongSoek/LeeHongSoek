@@ -29,13 +29,8 @@ import datetime
 import pytz
 
 # 한국 타임존을 설정합니다.
-korea_timezone = pytz.timezone("Asia/Seoul")
-
-# 현재 시간을 얻습니다.
-current_time = datetime.datetime.now(korea_timezone)
-
-# 형식에 맞게 시간을 출력합니다.
-formatted_time = current_time.strftime("%Y-%m-%d %H:%M")
+# 형식에 맞게 현재 시간을 얻습니다.
+formatted_time = datetime.datetime.now(pytz.timezone("Asia/Seoul")).strftime("%Y-%m-%d %H:%M")
 
 # 로컬 저장소의 경로
 local_repo = r"C:\MyProject\LeeHongSoek"
