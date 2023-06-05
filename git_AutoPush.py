@@ -62,5 +62,6 @@ while True:
         subprocess.run(["git", "commit", "-m", f"-- {formatted_time}에 자동업데이트 함 --"])
         subprocess.run(["git", "push", "origin", "main"])
 
+
     # 10 초 동안 대기합니다.
     time.sleep(10)
