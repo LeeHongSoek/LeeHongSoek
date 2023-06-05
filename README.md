@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ACzFIAOsfpM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [![깃헙(GitHub) 블로그 10분안에 완성하기](https://i.ytimg.com/vi/--MMmHbSH9k/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&amp;rs=AOn4CLCrM8OWMAuxiMvuGSaJAkQXkxD7qQ)](https://www.youtube.com/watch?v=ACzFIAOsfpM)
 
