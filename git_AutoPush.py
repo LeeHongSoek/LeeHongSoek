@@ -28,10 +28,6 @@ import os
 import datetime
 import pytz
 
-# 한국 타임존을 설정합니다.
-# 형식에 맞게 현재 시간을 얻습니다.
-formatted_time = datetime.datetime.now(pytz.timezone("Asia/Seoul")).strftime("%Y-%m-%d %H:%M")
-
 # 로컬 저장소의 경로
 local_repo = r"C:\MyProject\LeeHongSoek"
 
@@ -45,6 +41,9 @@ os.chdir(local_repo)
 subprocess.call(["git", "remote", "add", "origin", remote_url])
 
 while True:
+    # 한국 타임존을 설정합니다.
+    # 형식에 맞게 현재 시간을 얻습니다.
+    formatted_time = datetime.datetime.now(pytz.timezone("Asia/Seoul")).strftime("%Y-%m-%d %H:%M")
 
     # 원격 저장소의 변경 사항을 가져옵니다.
     subprocess.run(["git", "pull", "origin", "main"])
