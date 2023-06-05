@@ -31,7 +31,7 @@ while True:
     # 변경된 파일이 있는 경우 커밋하고 푸시합니다.
     if num_files > 0:
         subprocess.run(["git", "commit", "-m", "Auto-commit"])
-        subprocess.run(["git", "push", "origin/main"])
+        subprocess.run(["git", "push", "origin", "main"])
 
     # 10초 동안 대기합니다.
     time.sleep(10)
