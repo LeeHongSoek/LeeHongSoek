@@ -1,8 +1,7 @@
-
 ![image](https://github.com/LeeHongSoek/LeeHongSoek/assets/105229755/beb7bdaa-0e84-4b57-b28e-a099a9b4ea5f)
 
+### 하이요👋
 
-### Hi there 👋
 **LeeHongSoek/LeeHongSoek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
