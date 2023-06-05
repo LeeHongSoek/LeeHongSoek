@@ -1,10 +1,10 @@
 
-![이미지 설명](https://github.com/LeeHongSoek/LeeHongSoek/raw/main/이홍석_일산호수공원.jpg)
+![이홍석_일산호수공원](https://github.com/LeeHongSoek/LeeHongSoek/raw/main/이홍석_일산호수공원.jpg)
 
 
 ### Hi there 👋
 
-<!--
+
 **LeeHongSoek/LeeHongSoek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,4 +17,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<!--
+여기는 주석
 -->
