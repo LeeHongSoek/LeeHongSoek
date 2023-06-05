@@ -20,11 +20,12 @@ subprocess.call(["git", "remote", "add", "origin", remote_url])
 # 원격 저장소의 변경 사항을 가져옵니다.
 subprocess.run(["git", "pull", "origin", "main"])
 
-# git add --all
-subprocess.run(["git", "add", "-u"])
 
 # git status
 result = subprocess.run(["git", "status"], capture_output=True, text=True)
+
+# git add --all
+subprocess.run(["git", "add", "."])
 
 # 변경된 파일의 수
 num_files = len(result.stdout.splitlines()) - 1
