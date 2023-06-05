@@ -36,8 +36,6 @@ current_time = datetime.datetime.now(korea_timezone)
 
 # 형식에 맞게 시간을 출력합니다.
 formatted_time = current_time.strftime("%Y-%m-%d %H:%M")
-print(formatted_time)
-
 
 # 로컬 저장소의 경로
 local_repo = r"C:\MyProject\LeeHongSoek"
